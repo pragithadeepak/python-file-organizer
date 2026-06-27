@@ -6,10 +6,6 @@ It scans a target directory, sorts files into subfolders based on file
 type (PDFs, Images, Documents, Spreadsheets, etc.), logs every action,
 and generates a summary report.
 
-This project was built as part of the RISE Internship Python Programming
-track — **Project 1: Industry-Oriented Python Automation System for
-Business Operations**.
-
 ## Problem Statement
 Many organizations rely on manual file handling for repetitive tasks.
 This is time-consuming and error-prone. This script automates that
